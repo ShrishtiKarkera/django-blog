@@ -1,4 +1,4 @@
-## Django blog website with AWS file upload 
+## Django blog website using AWS for deployment and storage
 _____________________________________________________
 This is an old project of mine and uses Django 2.1
 _____________________________________________________
